@@ -19,3 +19,5 @@ Wymagania:
 - U¿ytkownik (nauczyciel) mo¿e prowadziæ swoje zajêcia (pokoje chatowe).
 - U¿ytkownik (nauczyciel) mo¿e komunikowaæ siê z innymi nauczycielami, lub uczniami.
 - U¿ytkownik (nauczyciel) mo¿e udostêpniaæ dla innych materia³y naukowe w formie plików.
+
+Strona projektu: https://github.com/daniel-zasada/e-learning
